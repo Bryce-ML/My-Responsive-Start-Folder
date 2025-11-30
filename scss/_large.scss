@@ -2,3 +2,15 @@ header, nav, main, footer {
     max-width: 60rem;
     margin: auto;
 }
+
+nav ul {
+    padding: 10px 0px;
+}
+
+h1 {
+    padding: 0px 0px;
+}
+
+section {
+    grid-template-columns: 1fr 1fr 1fr;
+}

@@ -4,3 +4,12 @@ header {
         font-size: 2rem;
     }
 }
+
+nav ul {
+    display: flex;
+    padding: 10px $gutter;
+}
+
+section {
+    grid-template-columns: 1fr 1fr;
+}
